@@ -1,0 +1,23 @@
+{
+  "name": "reactdemo",
+  "description": "learn react",
+  "main": "webpack.config.js",
+  "authors": [
+    "Minson"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/Sifum/react-demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
