@@ -65,5 +65,4 @@ class Counter extends React.Component { //定义组件，继承父类
 
 }
 
-
-ReactDOM.render( <Counter /> , document.getElementById('Counter'))
+export default Counter
